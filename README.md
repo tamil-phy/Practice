@@ -1,2 +1,2 @@
-# Daily_Practice
-Daily Coding Practice
+# Practice
+Random Coding Practice
